@@ -1,0 +1,1 @@
+This repository contains a simple JavaScript function with a bug related to null value handling and its corrected version. The original function incorrectly returns 0 even if one of the inputs is not null, while the corrected version only returns 0 if both inputs are null.  The files 'bug.js' and 'bugSolution.js' demonstrate the faulty and corrected code respectively.
